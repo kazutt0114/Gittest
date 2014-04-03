@@ -5,3 +5,4 @@ public class Good {
 	System.out.println("Good!Good!Good!");
     }
 }
+
